@@ -160,7 +160,7 @@ function playBackgroundMusic() {
     audio.src = 'Music/' + musicaParam;
   } else {
     // ← Audio por defecto
-    audio.src = 'Music/Video Project.mp3';
+    audio.src = 'Music/VideoProject.mp3';
   }
 
   audio.volume = 0.7;
